@@ -30,10 +30,6 @@ Cada bloque sigue la misma metodología: modelo base (**Decision Tree**) → ing
 
 En regresión, el feature engineering (transformación log + variable de volumen) redujo el error de forma directa y medible. En clasificación, ambos modelos ya alcanzaban accuracy perfecto en el split de prueba, así que la mejora real solo se evidencia en la validación cruzada (mayor estabilidad, menor varianza entre folds).
 
-## Contenido del repositorio
-
-- `Actividad_Regresion_Clasificacion.docx` — documento técnico completo: desarrollo de ambos bloques, tablas comparativas, gráficos (matrices de confusión, curvas ROC, importancia de variables), análisis crítico y referencias en formato APA 7.
-- `actividad_regresion_clasificacion.ipynb` — notebook ejecutable con carga de ambos datasets, preparación de datos, modelos base y mejorados, y evaluación completa.
 
 ## Cómo ejecutar el notebook
 
